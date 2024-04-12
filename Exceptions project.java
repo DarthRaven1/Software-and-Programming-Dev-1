@@ -1,8 +1,3 @@
-
-
-
-
-
 // An Exceptions program created by Asher Lilly 
 // For Software Dev 1 2024
 public class Exceptions {
